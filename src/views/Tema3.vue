@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Firebase
+      h1 #[em Firebase]
 
     figure
       img(src="@/assets/curso/tema3/1.svg" data-aos="fade-up")
@@ -15,7 +15,7 @@
         .col-lg-4.mb-4.mb-lg-0
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p(data-aos="fade-up") Firebase es una plataforma en la nube de Google para el desarrollo de aplicaciones web y móviles. Fue creada en 2011 pasando a ser parte de Google en 2014, su función esencial es hacer más sencilla la creación de aplicaciones web y móviles en su desarrollo, proporcionando herramientas que facilitan el trabajo para que sea más rápido, pero sin renunciar a la calidad y la seguridad. Digital55 (2020).
+            p(data-aos="fade-up") #[em Firebase] es una plataforma en la nube de Google para el desarrollo de aplicaciones #[em web] y móviles. Fue creada en 2011 pasando a ser parte de Google en 2014, su función esencial es hacer más sencilla la creación de aplicaciones #[em web] y móviles en su desarrollo, proporcionando herramientas que facilitan el trabajo para que sea más rápido, pero sin renunciar a la calidad y la seguridad. Digital55 (2020).
 
     br
     br
@@ -24,10 +24,10 @@
 
     .row
       .col-md-7
-        p(data-aos="fade-up") La principal herramienta y esencial de Firebase son las bases de datos en tiempo real. Estas se alojan en la nube, son de tipo NoSQL en formato JSON como se vio en el componente de base de datos. Este servicio ofrece alojar y disponer de los datos e información de la aplicación en tiempo real, manteniéndolos actualizados, aunque el usuario no realice ninguna acción.
-        p.mt-3(data-aos="fade-up") Firebase ayuda a compilar y ejecutar las aplicaciones de manera exitosa, desde los IOS, Android y la Web móvil, y para esto se necesita un servidor backend para almacenar datos y administrarlos. 
+        p(data-aos="fade-up") La principal herramienta y esencial de Firebase son las bases de datos en tiempo real. Estas se alojan en la nube, son de tipo NoSQL en formato #[em JSON] como se vio en el componente de base de datos. Este servicio ofrece alojar y disponer de los datos e información de la aplicación en tiempo real, manteniéndolos actualizados, aunque el usuario no realice ninguna acción.
+        p.mt-3(data-aos="fade-up") #[em Firebase] ayuda a compilar y ejecutar las aplicaciones de manera exitosa, desde los #[em IOS], #[em Android] y la #[em Web] móvil, y para esto se necesita un servidor #[em backend] para almacenar datos y administrarlos. 
         p.mt-3(data-aos="fade-up") Igualmente, en las aplicaciones, ayuda a crear nuevos usuarios, mantenerlos comprometidos y escalonamientos desde el registro de usuarios hasta los que consultan la base de datos.
-        p.mt-3(data-aos="fade-up") Firebase, maneja los detalles de infraestructura de backend de las aplicaciones, las participaciones de los usuarios y la monetización.
+        p.mt-3(data-aos="fade-up") #[em Firebase], maneja los detalles de infraestructura de backend de las aplicaciones, las participaciones de los usuarios y la monetización.
       .col-md-5
         figure
           img(src="@/assets/curso/tema3/3.svg" data-aos="fade-left")
@@ -36,8 +36,8 @@
         figure
           img(src="@/assets/curso/tema3/4.svg" data-aos="fade-right")
       .col-md-7
-        p(data-aos="fade-up") Para la administración y monitoreo de las aplicaciones conectadas a Firebase existe una consola web, para verificar las fallas y configurar arreglos, rastreo de análisis y estadísticas.
-        p.mt-3(data-aos="fade-up") También instala conjuntos de código abierto empaquetados para automatizar las tareas de desarrollo. Se integra fácilmente con las herramientas de los equipos, como AdMob, plataforma de marketing de Google, Play Store, Data Studio, BigQuery, Slack, Jira y PagerDuty, del mismo modo soporta videojuegos y aplicaciones muy grandes.
+        p(data-aos="fade-up") Para la administración y monitoreo de las aplicaciones conectadas a #[em Firebase] existe una consola #[em web], para verificar las fallas y configurar arreglos, rastreo de análisis y estadísticas.
+        p.mt-3(data-aos="fade-up") También instala conjuntos de código abierto empaquetados para automatizar las tareas de desarrollo. Se integra fácilmente con las herramientas de los equipos, como #[em AdMob], plataforma de #[em marketing] de Google, #[em Play Store], #[em Data Studio], #[em BigQuery], #[em Slack], #[em Jira] y #[em PagerDuty], del mismo modo soporta videojuegos y aplicaciones muy grandes.
         p.mt-3(data-aos="fade-up") En cuanto a sus costos de servicio, posee planes gratuitos y de prepago, los cuales son muy fáciles de adquirir y dan muy buen soporte.
 
     br
@@ -92,7 +92,7 @@
         p No incorporan atomicidad en la información, presenta información inconsistente entre nodos.
       .tarjeta.color-acento-botones.p-3(x="59%" y="93%" numero="")
         .h5.mb-2 No documentación:
-        p Suele ocurrir que el software, posee operaciones no documentadas, por lo cual podrían ser muy limitadas, por falta de información sobre sus herramientas y características.
+        p Suele ocurrir que el #[em software], posee operaciones no documentadas, por lo cual podrían ser muy limitadas, por falta de información sobre sus herramientas y características.
       .tarjeta.color-acento-botones.p-3(x="72%" y="93%" numero="")
         .h5.mb-2 Menos madurez:
         p Las bases de datos NoSQL, tienen muchas características importantes que aún no se han implementado.

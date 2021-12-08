@@ -19,7 +19,7 @@
             i.fas.fa-quote-right(data-aos="fade-left")
           .bloque-texto-d__autor 
             .h6.mb-0.text-regular Sheldon, R., & Shore, J. (2021)
-        p.mt-4(data-aos="fade-up") De igual forma, hacen referencia a una nueva modalidad de almacenamiento, en Cloud, no es en un equipo o sistema local, se ejecuta desde un servidor en la nube.
+        p.mt-4(data-aos="fade-up") De igual forma, hacen referencia a una nueva modalidad de almacenamiento, en #[em Cloud], no es en un equipo o sistema local, se ejecuta desde un servidor en la nube.
         p.mt-3(data-aos="fade-up") A continuación se describen sus principales ventajas y desventajas:
       .col-md-5
         figure
@@ -39,8 +39,8 @@
               td.p-4(style="border:none;border-right:1px #AFAFAF solid;") #[strong Portabilidad:] puede ser usado desde cualquier dispositivo tecnológico.
               td.p-4(style="border:none;") #[strong Atomicidad:] no incorporan atomicidad en la información, presenta información inconsistente entre nodos.
             tr(style="background-color:#FEFEFE")
-              td.p-4(style="border:none;border-right:1px #AFAFAF solid;") #[strong Versatilidad:] ofrece crecimientos sobre su forma de almacenar la información, se manejan campos o tablas, “colección”, dado que intercambia documentos basado en JSON, solo se agregan notas sobre el documento y se sigue operando.
-              td.p-4(style="border:none;") #[strong No documentación:] suele ocurrir que el software, posee operaciones no documentadas, por lo cual podrían ser muy limitadas, por falta de información sobre sus herramientas y características.
+              td.p-4(style="border:none;border-right:1px #AFAFAF solid;") #[strong Versatilidad:] ofrece crecimientos sobre su forma de almacenar la información, se manejan campos o tablas, “colección”, dado que intercambia documentos basado en #[em JSON], solo se agregan notas sobre el documento y se sigue operando.
+              td.p-4(style="border:none;") #[strong No documentación:] suele ocurrir que el #[em software], posee operaciones no documentadas, por lo cual podrían ser muy limitadas, por falta de información sobre sus herramientas y características.
             tr(style="background-color:#F6F6F6")
               td.p-4(style="border:none;border-right:1px #AFAFAF solid;") #[strong Optimización:] poseen un algoritmo interno que reescribe las consultas de los usuarios, para no sobrecargar los servidores y optimizar las operaciones.
               td.p-4(style="border:none;") #[strong Menos madurez:] las bases de datos NoSQL, tienen muchas características importantes que aún no se han implementado.
@@ -48,7 +48,7 @@
               td.p-4(style="border:none;border-right:1px #AFAFAF solid;") #[strong Crecimiento horizontal:] soportan estructuras distribuidas, si el desempeño de los servidores baja, se instalan nuevos nodos para nivelar la carga de trabajo.
               td.p-4(style="border:none;") #[strong Poca estandarización:] no se definen exactamente los motores que la utilizan, los lenguajes hacen variar el tipo de base de datos a utilizar.
             tr(style="background-color:#F6F6F6")
-              td.p-4(style="border:none;border-right:1px #AFAFAF solid;") #[strong Aplicaciones de Big Data:] se pueden manejar grandes volúmenes de datos.
+              td.p-4(style="border:none;border-right:1px #AFAFAF solid;") #[strong Aplicaciones de #[em Big Data:]] se pueden manejar grandes volúmenes de datos.
               td.p-4(style="border:none;") #[strong No interfaz:] la mayoría de las bases de datos NoSQL, no tienen interfaz gráfica, por lo cual se requiere un buen conocimiento para poder manipular algunas.
             tr(style="background-color:#FEFEFE")
               td.p-4(style="border:none;border-right:1px #AFAFAF solid;") #[strong Administración:] se utiliza menos administración práctica, se distribuyen datos y se reparan automáticamente, menos requisitos de ajuste y administración.

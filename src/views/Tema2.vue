@@ -15,7 +15,7 @@
         .col-lg-4.mb-4.mb-lg-0
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p(data-aos="fade-up") Es una base de datos proporcionada por MongoDb, ofrece una gran escalabilidad y flexibilidad, así como un modelo de consultas e indexación avanzado.  MongoDB. (2021). Es un escalamiento de otra base de datos, pero esta vez hacia la nube. Realiza de manera automatizada la creación de servidores, servicios, modificaciones y configuraciones.
+            p(data-aos="fade-up") Es una base de datos proporcionada por #[em MongoDb], ofrece una gran escalabilidad y flexibilidad, así como un modelo de consultas e indexación avanzado.  #[em MongoDB]. (2021). Es un escalamiento de otra base de datos, pero esta vez hacia la nube. Realiza de manera automatizada la creación de servidores, servicios, modificaciones y configuraciones.
 
     br
     br
@@ -49,8 +49,7 @@
     br
     .titulo-segundo.mt-5
       h2#t_2_2 2.2  Creación de una base de datos
-    p(data-aos="fade-up") La instalación de MongoDB en un sistema Windows 10, comenzando por su descarga, implica el seguimiento de una serie de pasos ordenados. En este punto del contenido formativo, se dará a conocer el recorrido detallado para tal instalación.
-    p.mt-3(data-aos="fade-up") Siga cuidadosamente las instrucciones que se encuentran en el siguiente documento y luego aplíquelas en su computador.
+    p(data-aos="fade-up") Se invita al aprendiz a ver los siguientes videos, en lo que podrá observar y escuchar en detalle el procedimiento para realizar cada una de las siguientes actividades:
 
     .row.mt-5
       .col-md-6
