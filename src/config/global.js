@@ -112,7 +112,7 @@ export default {
     },
     {
       referencia:
-        'Digital55 (2020). Qué es Firebase: funcionalidades, ventajas y conclusiones. ',
+        'Digital55 (2020). Firebase: qué es, para qué sirve, funcionalidades y ventajas. ',
       link:
         'https://www.digital55.com/desarrollo-tecnologia/que-es-firebase-funcionalidades-ventajas-conclusiones',
     },
@@ -264,6 +264,11 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },

@@ -44,7 +44,7 @@
     br
     .titulo-segundo.mt-5
       h2#t_3_2 3.2  Creación de una base de datos
-    p(data-aos="fade-up") Se invita al aprendiz a ver los siguientes videos, en lo que podrá observar y escuchar en detalle el procedimiento para realizar cada una de las siguientes actividades:
+    p(data-aos="fade-up") Se invita al aprendiz a ver el siguiente video, en lo que podrá observar y escuchar en detalle el procedimiento para realizar cada una de las siguientes actividades:
 
     .row.mt-5
       .col-md-6
